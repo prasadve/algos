@@ -1,2 +1,2 @@
-# algos
-Algorithms
+# Algos
+Algorithms.  
